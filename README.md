@@ -5,5 +5,5 @@ I have a bunch of projects on my bootcamp, but my favourite is the <a href="http
 
 <b>Fun Facts:</b>
 <ul>
-  <li><b>Hobbies:</b> Watching TV Shows, Gym</li>
+  <li><b>Hobbies:</b> Watching TV Shows, Gym, Coding</li>
 </ul>
